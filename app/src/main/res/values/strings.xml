@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color Change Animation Demo</string>
+    <string name="animate_button_text">Animate</string>
+    <string name="animage_button_text_stop">Stop</string>
+</resources>
